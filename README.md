@@ -1,2 +1,2 @@
 # ML_Projects
-This contains small learning projects in ML
+This contains small learning projects of ML
